@@ -13,6 +13,7 @@ public class ctrlBarberia implements MouseListener, KeyListener{
     frmBarberia vista;
     tbBarbero modelo;
     
+    //lo amo ingeniero
     public ctrlBarberia (frmBarberia vista, tbBarbero modelo){
         
         this.vista = vista;
